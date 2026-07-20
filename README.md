@@ -2,6 +2,10 @@
 
 Ustaad AI is a highly optimized, full-stack educational platform dedicated to democratizing artificial intelligence and academic prep across Pakistan. Built using **React**, **Vite**, **Express**, and the official **Google GenAI SDK**, it leverages advanced Gemini models to deliver customized, bilingual mentorship, curriculum-aligned exam prep, and local-dialect concept explanations.
 
+[![Live App](https://img.shields.io/badge/Live_App-Ustaad_AI-emerald?style=for-the-badge&logo=google-cloud)](https://ais-pre-bmfinhkxadqg4zqtlcrrvq-177039273481.asia-east1.run.app)
+
+**👉 Open the Live App:** [https://ais-pre-bmfinhkxadqg4zqtlcrrvq-177039273481.asia-east1.run.app](https://ais-pre-bmfinhkxadqg4zqtlcrrvq-177039273481.asia-east1.run.app)
+
 The platform is beautifully styled with a **Sophisticated Dark** visual aesthetic, incorporating elegant typography, slate backgrounds, and emerald/indigo highlights.
 
 ---
