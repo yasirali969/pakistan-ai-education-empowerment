@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan AI Education Empowerment",
+  "description": "An AI-powered educational platform designed to empower students and teachers across Pakistan with local curriculum-aligned virtual tutors, bilingual translation resources, mock quiz simulations, and custom learning pathways in Urdu and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
