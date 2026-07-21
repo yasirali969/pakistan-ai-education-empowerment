@@ -1,6 +1,7 @@
 # Ustaad AI (پاکستان اے آئی) — Pakistan AI Education Portal
 
 Ustaad AI is a highly optimized, full-stack educational platform dedicated to democratizing artificial intelligence and academic prep across Pakistan. Built using **React**, **Vite**, **Express**, and the official **Google GenAI SDK**, it leverages advanced Gemini models to deliver customized, bilingual mentorship, curriculum-aligned exam prep, and local-dialect concept explanations.
+Live Demo here : pakistan-ai-education-empowerment-production.up.railway.app
 
 The platform is beautifully styled with a **Sophisticated Dark** visual aesthetic, incorporating elegant typography, slate backgrounds, and emerald/indigo highlights.
 
